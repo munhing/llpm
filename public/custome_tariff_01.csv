@@ -1,0 +1,301 @@
+header,sub,item,unit,description
+101,21,0,UNT,--Pure-bred breeding animals
+101,29,0,UNT,--Other
+101,30,100,UNT,--Pure-bred breeding animals
+101,30,900,UNT,--Other
+101,90,0,UNT,-Other
+102,21,0,UNT,--Pure-bred breeding animals
+102,29,110,UNT,----Oxen
+102,29,190,UNT,----Other
+102,29,910,UNT,----Oxen
+102,29,990,UNT,----Other
+102,31,0,UNT,--Pure-bred breeding animals
+102,39,100,UNT,---For slaughter
+102,39,900,UNT,---Other
+102,90,100,UNT,--Pure-bred breeding animals
+102,90,910,UNT,---For slaughter
+102,90,990,UNT,---Other
+103,10,0,UNT,-Pure-bred breeding animals
+103,91,0,UNT,--Weighing less than 50 kg
+103,92,0,UNT,--Weighing 50 kg or more
+104,10,0,UNT,-Sheep
+104,20,0,UNT,-Goats
+105,11,100,UNT,---Breeding fowls
+105,11,900,UNT,---Other
+105,12,0,UNT,--Turkeys
+105,13,100,UNT,---Breeding ducklings
+105,13,900,UNT,---Other
+105,14,0,UNT,--Geese
+105,15,0,UNT,--Guinea fowls
+105,94,110,UNT,----Breeding fowls
+105,94,190,UNT,----Other
+105,94,900,UNT,---Other
+105,99,100,UNT,---Ducks
+105,99,900,UNT,---Other
+106,11,100,UNT,---For zoos and pets
+106,11,900,UNT,---Other
+106,12,100,UNT,- - - For zoos and pets
+106,12,900,UNT,- - - Other
+106,13,100,UNT,---For zoos and pets
+106,13,900,UNT,---Other
+106,14,100,UNT,---For zoos and pets
+106,14,900,UNT,---Other
+106,19,100,UNT,---For zoos and pets
+106,19,900,UNT,---Other
+106,20,100,UNT,--For zoos and pets
+106,20,900,UNT,--Other
+106,31,100,UNT,---For zoos and pets
+106,31,900,UNT,---Other
+106,32,100,UNT,---For zoos and pets
+106,32,900,UNT,---Other
+106,33,100,UNT,---For zoos and pets
+106,33,900,UNT,---Other
+106,39,100,UNT,---For zoos and pets
+106,39,900,UNT,---Other
+106,41,100,UNT,---For zoos and pets
+106,41,900,UNT,---Other
+106,49,100,UNT,---For zoos and pets
+106,49,900,UNT,---Other
+106,90,100,UNT,--For zoos and pets
+106,90,900,UNT,--Other
+201,10,0,KGM,-Carcasses and half-carcasses
+201,20,0,KGM,-Other cuts with bone in
+201,30,0,KGM,-Boneless
+202,10,0,KGM,-Carcasses and half-carcasses
+202,20,0,KGM,-Other cuts with bone in
+202,30,0,KGM,-Boneless
+203,11,0,KGM,--Carcasses and half-carcasses
+203,12,0,KGM,"--Hams, shoulders and cuts thereof, with bone in"
+203,19,0,KGM,--Other
+203,21,0,KGM,--Carcasses and half-carcasses
+203,22,0,KGM,"--Hams, shoulders and cuts thereof, with bone in"
+203,29,0,KGM,--Other
+204,10,0,KGM,"-Carcasses and half-carcasses of lamb, fresh or chilled"
+204,21,0,KGM,--Carcasses and half-carcasses
+204,22,0,KGM,--Other cuts with bone in
+204,23,0,KGM,--Boneless
+204,30,0,KGM,"-Carcasses and half-carcasses of lamb, frozen"
+204,41,0,KGM,--Carcasses and half-carcasses
+204,42,0,KGM,--Other cuts with bone in
+204,43,0,KGM,--Boneless
+204,50,0,KGM,-Meat of goats
+205,0,0,KGM,"Meat of horses, asses, mules or hinnies, fresh, chilled or frozen."
+206,10,0,KGM,"-Of bovine animals, fresh or chilled"
+206,21,0,KGM,--Tongues
+206,22,0,KGM,--Livers
+206,29,0,KGM,--Other
+206,30,0,KGM,"-Of swine, fresh or chilled"
+206,41,0,KGM,--Livers
+206,49,0,KGM,--Other
+206,80,0,KGM,"-Other, fresh or chilled"
+206,90,0,KGM,"-Other, frozen"
+207,11,0,KGM,"--Not cut in pieces, fresh or chilled"
+207,12,0,KGM,"--Not cut in pieces, frozen"
+207,13,0,KGM,"--Cuts and offal, fresh or chilled"
+207,14,0,KGM,"--Cuts and offal, frozen"
+207,24,0,KGM,"--Not cut in pieces, fresh or chilled"
+207,25,0,KGM,"--Not cut in pieces, frozen"
+207,26,0,KGM,"--Cuts and offal, fresh or chilled"
+207,27,0,KGM,"--Cuts and offal, frozen"
+207,41,0,KGM,"--Not cut in pieces, fresh or chilled"
+207,42,0,KGM,"--Not cut in pieces, frozen"
+207,43,0,KGM,"--Fatty livers, fresh or chilled"
+207,44,0,KGM,"--Other, fresh or chilled"
+207,45,0,KGM,"--Other, frozen"
+207,51,0,KGM,"--Not cut in pieces, fresh or chilled"
+207,52,0,KGM,"--Not cut in pieces, frozen"
+207,53,0,KGM,"--Fatty livers, fresh or chilled"
+207,54,0,KGM,"--Other, fresh or chilled"
+207,55,0,KGM,"--Other, frozen"
+207,60,100,KGM,"--Not cut in pieces, fresh or chilled"
+207,60,200,KGM,"--Not cut in pieces, frozen"
+207,60,300,KGM,"--Fatty livers, fresh or chilled"
+207,60,400,KGM,"--Other, fresh or chilled"
+207,60,500,KGM,"--Other, frozen"
+208,10,0,KGM,-Of rabbits or hares
+208,30,0,KGM,-Of primates
+208,40,0,KGM,"-Of whales, dolphins and porpoises (mammals of the order Cetacea); of manatees and dugongs (mammals of the order Sirenia); of seals, sea lions and walruses (mammals of the suborder Pinnipedia):"
+208,50,0,KGM,-Of reptiles (including snakes and turtles)
+208,60,0,KGM,-Of camels and other camelids (camelidae)
+208,90,100,KGM,--Frogs' legs
+208,90,900,KGM,--Other
+209,10,0,KGM,-Of pigs
+209,90,0,KGM,-Other
+210,11,100,KGM,---Hams
+210,11,900,KGM,---Other
+210,12,0,KGM,--Bellies (streaky) and cuts thereof
+210,19,100,KGM,---Bacon or boneless hams
+210,19,200,KGM,---Salted pork
+210,19,900,KGM,---Other
+210,20,100,KGM,--Beef and veal
+210,20,900,KGM,--Other
+210,91,0,KGM,--Of primates
+210,92,0,KGM,"--Of whales, dolphins and porpoises (mammals of the order Cetacea); of manatees and dugongs (mammals of the order Sirenia); of seals, sea lions and walruses (mammals of the suborder Pinnipedia)"
+210,93,0,KGM,--Of reptiles (including snakes and turtles)
+210,99,110,KGM,----Salted or in brine
+210,99,120,KGM,----Dried or smoked
+210,99,900,KGM,---Other
+301,11,100,UNT,---Fry
+301,11,900,UNT,---Other
+301,19,100,UNT,---Fry
+301,19,900,UNT,---Other
+301,91,0,KGM,"--Trout (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Oncorhynchus gilae, Oncorhynchus apache and Oncorhynchus chrysogaster)"
+301,92,0,KGM,--Eels (Anguilla spp.)
+301,93,0,KGM,"--Carp (Cyprinus carpio, Carassius carassius, Ctenopharyngodon idellus, Hypopthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus):"
+301,94,0,KGM,"--Atlantic and Pacific bluefin tunas (Thunnus thynnus, Thunnus orientalis)"
+301,95,0,KGM,--Southern bluefin tunas (Thunnus maccoyii)
+301,99,0,KGM,--Other
+302,11,0,KGM,"--Trout (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Oncorhynchus gilae, Oncorhynchus apache and Oncorhynchus chrysogaster)"
+302,13,0,KGM,"--Pacific salmon (Oncorhynchus nerka, Oncorhynchus gorbuscha,Oncorhynchus keta, Oncorhynchus tschawytscha, Oncorhynchus kisutch, Oncorhynchus masou, and Oncorhynchus rhodurus)"
+302,14,0,KGM,--Atlantic salmon (Salmo salar) and Danube salmon (Hucho hucho)
+302,19,0,KGM,--Other
+302,21,0,KGM,"--Halibut (Reinhardtius hippoglossoides, Hippoglossus hippoglossus, Hippoglossus stenolepis)"
+302,22,0,KGM,--Plaice (Pleuronectes platessa)
+302,23,0,KGM,--Sole (Solea spp.)
+302,24,0,KGM,--Turbots (Psetta maxima)
+302,29,0,KGM,--Other
+302,31,0,KGM,--Albacore or longfinned tunas (Thunnus alalunga)
+302,32,0,KGM,--Yellowfin tunas (Thunnus albacares)
+302,33,0,KGM,--Skipjack or stripe-bellied bonito
+302,34,0,KGM,--Bigeye tunas (Thunnus obesus)
+302,35,0,KGM,"--Atlantic and Pacific bluefin tunas (Thunnus thynnus, Thunnus orientalis)"
+302,36,0,KGM,--Southern bluefin tunas (Thunnus maccoyii)
+302,39,0,KGM,--Other
+302,41,0,KGM,"--Herrings (Clupea harengus, Clupea pallasii)"
+302,42,0,KGM,--Anchovies (Engraulis spp.)
+302,43,0,KGM,"--Sardines (Sardina pilchardus, Sardinops spp.), sardinella (Sardinella spp.), brisling or sprats (Sprattus sprattus)"
+302,44,0,KGM,"--Mackerel (Scomber scombrus, Scomber australasicus, Scomber japonicus)"
+302,45,0,KGM,--Jack and horse mackerel (Trachurus spp.)
+302,46,0,KGM,--Cobia (Rachycentron canadum)
+302,47,0,KGM,--Swordfish (Xiphias gladius)
+302,51,0,KGM,"--Cod (Gadus morhua, Gadus ogac, Gadus macrocephalus)"
+302,52,0,KGM,--Haddock (Melanogrammus aeglefinus)
+302,53,0,KGM,--Coalfish (Pollachius virens)
+302,54,0,KGM,"--Hake (Merluccius spp., Urophycis spp.)"
+302,55,0,KGM,--Alaska Pollack (Theraga chalcogramma)
+302,56,0,KGM,"--Blue whitings (Micromesistius poutassou, Micromesistius australis)"
+302,59,0,KGM,--Other
+302,71,0,KGM,--Tilapias (Oreochromis spp.)
+302,72,0,KGM,"--Catfish (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.)"
+302,73,0,KGM,"--Carp (Cyprinus carpio, Carassius Carassius, Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylophar yngodon piceus)"
+302,74,0,KGM,--Eels (Anguilla spp.)
+302,79,0,KGM,--Other
+302,81,0,KGM,--Dogfish and other sharks
+302,82,0,KGM,--Rays and skates (Rajidae)
+302,83,0,KGM,--Toothfish (Dissostichus spp.)
+302,84,0,KGM,--Seabass (Dicentrarchus spp.)
+302,85,0,KGM,--Seabream (Sparidae)
+302,89,0,KGM,--Other
+302,90,0,KGM,-Livers and roes
+303,11,0,KGM,--Sockeye salmon (red salmon) (Oncorhynchus nerka)
+303,12,0,KGM,"--Other Pacific salmon (Oncorhynchus gorbuscha, Oncorhynchus keta, Oncorhynchus tschawytscha, Oncorhynchus kisutch, Oncorhynchus masou and Oncorhynchus rhodurus)"
+303,13,0,KGM,--Atlantic salmon (Salmo salar) and Danube salmon (Hucho hucho)
+303,14,0,KGM,"--Trout (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Oncorhynchus gilae, Oncorhynchus apache and Oncorhynchus chrysogaster)"
+303,19,0,KGM,--Other
+303,23,0,KGM,--Tilapias (Oreochromis spp.)
+303,24,0,KGM,"--Catfish (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.)"
+303,25,0,KGM,"--Carp (Cyprinus carpio, Carassius carassius, Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus)"
+303,26,0,KGM,--Eels (Anguilla spp.)
+303,29,0,KGM,--Other
+303,31,0,KGM,"--Halibut (Reinhardtius hippoglossoides, Hippoglossus hippoglossus, Hippoglossus stenolepis)"
+303,32,0,KGM,--Plaice (Pleuronectes platessa)
+303,33,0,KGM,--Sole (Solea spp.)
+303,34,0,KGM,--Turbots (Psetta maxima)
+303,39,0,KGM,--Other
+303,41,0,KGM,--Albacore or longfinned tunas (Thunnus alalunga)
+303,42,0,KGM,--Yellowfin tunas (Thunnus albacares)
+303,43,0,KGM,--Skipjack or stripe-bellied bonito
+303,44,0,KGM,--Bigeye tunas (Thunnus obesus)
+303,45,0,KGM,"--Atlantic and Pacific bluefin tunas (Thunnus thynnus, Thunnus orientalis)"
+303,46,0,KGM,--Southern bluefin tunas (Thunnus maccoyii)
+303,49,0,KGM,--Other
+303,51,0,KGM,"--Herrings (Clupea harengus, Clupea pallasii)"
+303,53,0,KGM,"--Sardines (Sardina pilchardus, Sardinops spp.), sardinella (Sardinella spp.), brisling or sprats (Sprattus sprattus)"
+303,54,0,KGM,"--Mackerel (Scomber scombrus, Scomber australasicus, Scomber japonicus)"
+303,55,0,KGM,--Jack and horse mackerel (Trachurus spp.)
+303,56,0,KGM,--Cobia (Rachycentron canadum)
+303,57,0,KGM,--Swordfish (Xiphias gladius)
+303,63,0,KGM,"--Cod (Gadus morhua, Gadus ogac, Gadus macrocephalus)"
+303,64,0,KGM,--Haddock (Melanogrammus aeglefinus)
+303,65,0,KGM,--Coalfish (Pollachius virens)
+303,66,0,KGM,"--Hake (Merluccius spp., Urophycis spp.)"
+303,67,0,KGM,--Alaska Pollack (Theragra chalcogramma)
+303,68,0,KGM,"--Blue whitings (Micromesistius poutassou, Micromesistius australis)"
+303,69,0,KGM,--Other
+303,81,0,KGM,--Dogfish and other sharks
+303,82,0,KGM,--Rays and skates (Rajidae)
+303,83,0,KGM,--Toothfish (Dissostichus spp.)
+303,84,0,KGM,--Seabass (Dicentrarchus spp.)
+303,89,0,KGM,--Other
+303,90,0,KGM,-Livers and roes
+304,31,0,KGM,--Tilapias (Oreochromis spp.)
+304,32,0,KGM,"--Catfish (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.)"
+304,33,0,KGM,--Nile Perch (Lates niloticus)
+304,39,0,KGM,--Other
+304,41,0,KGM,"--Pacific salmon (Oncorhynchus nerka, Oncorhynchus gorbuscha, Oncorhynchus keta, Oncorhynchus tschawytscha, Oncorhynchus kisutch, Oncorhynchus masou and Oncorhynchus rhodurus), Atlantic salmon (Salmo salar) and Danube salmon (Hucho hucho)"
+304,42,0,KGM,"--Trout (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Oncorhynchus gilae, Oncorhynchus apache and Oncorhynchus chrysogaster)"
+304,43,0,KGM,"--Flat fish (Pleuronectidae, Bothidae, Cynoglossidae, Soleidae, Scophthalmidae and Citharidae)"
+304,44,0,KGM,"--Fish of the families Bregmacerotidae, Euclichthyidae, Gadidae, Macrouridae, Melanonidae, Merlucciidae, Moridae and Muraenolepididae"
+304,45,0,KGM,--Swordfish (Xiphias gladius)
+304,46,0,KGM,--Toothfish (Dissostichus spp.)
+304,49,0,KGM,--Other
+304,51,0,KGM,"--Tilapias (Oreochromis spp.), catfish (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.), carp (Cyprinus carpio, Carassius carassius, Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus), eels (Anguilla spp.), Nile perch (Lates niloticus) and snakeheads (Channa spp.)"
+304,52,0,KGM,--Salmonidae
+304,53,0,KGM,"--Fish of the families Bregmacerotidae, Euclichthyidae, Gadidae, Macrouridae, Melanonidae, Merlucciidae, Moridae and Muraenolepididae"
+304,54,0,KGM,--Swordfish (Xiphias gladius)
+304,55,0,KGM,--Toothfish (Dissostichus spp.)
+304,59,0,KGM,--Other
+304,61,0,KGM,--Tilapias (Oreochromis spp.)
+304,62,0,KGM,"--Catfish (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.)"
+304,63,0,KGM,--Nile Perch (Lates niloticus)
+304,69,0,KGM,--Other
+304,71,0,KGM,"--Cod (Gadus morhua, Gadus ogac, Gadus macrocephalus)"
+304,72,0,KGM,--Haddock (Melanogrammus aeglefinus)
+304,73,0,KGM,--Coalfish (Pollachius virens)
+304,74,0,KGM,"--Hake (Merluccius spp., Urophycis spp.)"
+304,75,0,KGM,--Alaska Pollack (Theraga chalcogramma)
+304,79,0,KGM,--Other
+304,81,0,KGM,"--Pacific salmon (Oncorhynchus nerka, Oncorhynchus gorbuscha, Oncorhynchus keta, Oncorhynchus tschawytscha, Oncorhynchus kisutch, Oncorhynchus masou and Oncorhynchus rhodurus), Atlantic salmon (Salmo salar) and Danube salmon (Hucho hucho)"
+304,82,0,KGM,"--Trout (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Oncorhynchus gilae, Oncorhynchus apache and Oncorhynchus chrysogaster)"
+304,83,0,KGM,"--Flat fish (Pleuronectidae, Bothidae, Cynoglossidae, Soleidae, Scophthalmidae and Citharidae)"
+304,84,0,KGM,--Swordfish (Xiphias gladius)
+304,85,0,KGM,--Toothfish (Dissostichus spp.)
+304,86,0,KGM,"--Herrings (Clupea harengus, Clupea pallasii)"
+304,87,0,KGM,"--Tunas (of the genus Thunnus), skipjack or stripe-bellied bonito (Euthynnus (Katsuwonus) pelamis)"
+304,89,0,KGM,--Other
+304,91,0,KGM,--Swordfish (Xiphias gladius)
+304,92,0,KGM,--Toothfish (Dissostichus spp.)
+304,93,0,KGM,"--Tilapias (Oreochromis spp.), catfish (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.), carp (Cyprinus carpio, Carassius carassius, Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus), eels (Anguilla spp.), Nile perch (Lates niloticus) and snakeheads (Channa spp.)"
+304,94,0,KGM,--Alaska Pollack (Theragra chalcogramma)
+304,95,0,KGM,"--Fish of the families Bregmacerotidae, Euclichthyidae, Gadidae, Macrouridae, Melanonidae, Merlucciidae, Moridae and Muraenolepididae, other than Alaska Pollack (Theraga chalcogramma)"
+304,99,0,KGM,--Other
+305,10,0,KGM,"-Flours, meals and pellets of fish, fit for human consumption"
+305,20,100,KGM,--Of cod
+305,20,210,KGM,---Smoked
+305,20,220,KGM,"---Dried, salted or in brine"
+305,20,310,KGM,---Smoked
+305,20,320,KGM,"---Dried, salted or in brine"
+305,20,410,KGM,---Smoked
+305,20,420,KGM,"---Dried, salted or in brine"
+305,31,0,KGM,"--Tilapias (Oreochromis spp.), catfish (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.), carp (Cyprinus carpio, Carassius carassius, Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus), eels (Anguilla spp.), Nile perch (Lates niloticus) and snakeheads (Channa spp.)"
+305,32,0,KGM,"--Fish of the families Bregmacerotidae, Euclichthyidae, Gadidae, Macrouridae, Melanonidae, Merlucciidae, Moridae and Muraenolepididae"
+305,39,100,KGM,---Of freshwater fish
+305,39,200,KGM,---Of marine fish
+305,41,0,KGM,"--Pacific salmon (Oncorhynchus nerka, Oncorhynchus gosbuscha, Oncorhynchus keta, Oncorhynchustschawytscha, Oncorhynchus kisutch, Oncorhynchus masou,and Oncorhynchus rhodurus), Atlantic salmon (Salmo salar) and Danube salmon (Hucho hucho)"
+305,42,0,KGM,"--Herrings (Clupea harengus, Clupea pallasii)"
+305,43,0,KGM,"--Trout (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Oncorhynchus gilae, Oncorhynchus apache and Oncorhynchus chrysogaster)"
+305,44,0,KGM,"--Tilapias (Oreochromis spp.), catfish (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.), carp (Cyprinus carpio, Carassius carassius, Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus), eels (Anguilla spp.), Nile perch (Lates niloticus) and snakeheads (Channa spp.)"
+305,49,0,KGM,--Other
+305,51,0,KGM,"--Cod (Gadus morhua, Gadus ogac, Gadus macrocephalus)"
+305,59,110,KGM,----Anchovies (Stolephorus spp.) (Ikan bilis)
+305,59,190,KGM,----Other
+305,59,400,KGM,---Freshwater
+305,61,0,KGM,"--Herrings (Clupea harengus, Clupea pallasii)"
+305,62,0,KGM,"--Cod (Gadus morhua, Gadus ogac, Gadus macrocephalus)"
+305,63,0,KGM,--Anchovies (Engraulis spp.)
+305,64,0,KGM,"--Tilapias (Oreochromis spp.), catfish (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.), carp (Cyprinus carpio, Carassius carassius, Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus), eels (Anguilla spp.), Nile perch (Lates niloticus) and snakeheads (Channa spp.)"
+305,69,300,KGM,---Marine
+305,69,400,KGM,---Freshwater
+305,71,0,KGM,--Shark fins
+305,72,110,KGM,----Of cod
+305,72,190,KGM,----Other

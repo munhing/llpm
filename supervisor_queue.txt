@@ -1,0 +1,7 @@
+[program:queue]
+command=php artisan queue:listen
+directory=/home/vagrant/Projects/llpm
+stdout_logfile=/home/vagrant/Projects/llpm/app/storage/logs/supervisor.log
+redirect_stderr=true
+autostart=true
+autorestart=true
