@@ -16,6 +16,10 @@ trait AccessTrait {
 
         $role = Auth::user()->roles->first();
 
+
+
+    if(! empty($role)) {
+
     	if(! $role->permissions->isEmpty()) {
 
     	    foreach($role->permissions as $permission) {
@@ -45,6 +49,7 @@ trait AccessTrait {
 
         return $access;	
 	}
+    }
 
     protected function getProperties()
     {
