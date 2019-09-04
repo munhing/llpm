@@ -78,7 +78,7 @@ function validatePassword(password)
 
     // must not be blank
     if(password.trim() == "") {
-        alert("No password entered!");
+        alert("No password entered! asdfasfd");
         return false;    
     }
 

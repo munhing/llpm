@@ -5,7 +5,7 @@
         <!-- BEGIN LOGO -->
         <div class="page-logo">
             <h4><a href="{{ URL::route('home')}}">
-            <b>LLPM - THIS IS JUST A TEST SITE ON NEW SERVER</b>
+            <b>LLPM</b>
             </a></h4>
             <div class="menu-toggler sidebar-toggler hide">
                 <!-- DOC: Remove the above "hide" to enable the sidebar toggler button on header -->

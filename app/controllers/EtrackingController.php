@@ -181,6 +181,7 @@ class EtrackingController extends \BaseController {
 
 	public function updatePassword()
 	{
+		
 		$input = Input::all();
 		
 		$this->portUserRegisterForm->validateUpdatePassword($input);
