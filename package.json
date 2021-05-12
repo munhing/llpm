@@ -8,7 +8,7 @@
     "sass-loader": "^4.0.0"
   },
   "dependencies": {
-    "chart.js": "^2.2.2",
+    "chart.js": "^2.9.4",
     "keen-ui": "^0.8.9",
     "moment": "^2.14.1",
     "moment-range": "^2.2.0",
